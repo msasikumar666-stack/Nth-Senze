@@ -1,11 +1,26 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Nth Senze Design Agency
 
-  <h1>Built with AI Studio</h2>
+A high-end, animated landing page built with React 19, Tailwind CSS, and TypeScript.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## How to run locally
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1. **Install Dependencies**:
+   Open your terminal in the project folder and run:
+   ```bash
+   npm install
+   ```
 
-</div>
+2. **Start Development Server**:
+   ```bash
+   npm run dev
+   ```
+
+3. **View the Project**:
+   The app will be running at `http://localhost:3000`.
+
+## Tech Stack
+- **React 19**: Modern UI rendering.
+- **Tailwind CSS**: Utility-first styling with high-end glassmorphism.
+- **Vite**: Ultra-fast development server.
+- **TypeScript**: Robust type safety.
